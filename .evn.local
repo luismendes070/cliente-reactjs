@@ -1,0 +1,2 @@
+export REACT_EDITOR=code
+SKIP_PREFLIGHT_CHECK=true
